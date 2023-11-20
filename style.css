@@ -62,4 +62,7 @@ main{
     .col{
         width:100%
     }
+    main {
+        padding: 0.5em;
+    }
 }
